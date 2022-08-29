@@ -1,6 +1,6 @@
 ### Olá, sou Maria Vitória 👋
 
-- 🔭 Hoje estou trabalhando com tecnologia na área de automatização e conteúdo digital.
+- 🔭 Hoje estou cursando Ciências e Tecnologia e Técnico em Desenvolvimento de Sistemas.
 - 🌱 Estou estudando Python e Flutter.
 - 👯 Estou procurando colaborar/ aprofundar em Front-end.
 - 🤔 Estou procurando ajuda com estudos para Back-end.
