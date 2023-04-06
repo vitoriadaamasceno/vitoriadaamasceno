@@ -5,7 +5,7 @@
 - 👯 Estou procurando colaborar/ aprofundar em Front-end.
 - 🤔 Estou procurando ajuda com estudos para Back-end(Flask e Node.js).
 <div align="center">
-  <a href="https://github.com/Maria-a17">
+  <a href="https://github.com/vitoriadaamasceno">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitoriadaamasceno&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriadaamasceno&layout=compact&langs_count=7&theme=dracula"/>
 </div>
