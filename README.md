@@ -4,11 +4,11 @@
 - 🌱 Estou estudando Python e JS.
 - 👯 Estou procurando colaborar/ aprofundar em Front-end.
 - 🤔 Estou procurando ajuda com estudos para Back-end(Flask e Node.js).
-<div align="center">
-  <a href="https://github.com/vitoriadaamasceno">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitoriadaamasceno&show_icons=true&theme=dracula&include_all_commits=false&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriadaamasceno&layout=compact&langs_count=10&theme=dracula"/>
-</div>
+
+[![card](https://github-readme-stats.vercel.app/api?username=vitoriadaamasceno&theme=tokyonight)](#)
+
+
+[![vitoriadaamasceno](https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriadaamasceno&hide=html&layout=compact&theme=tokyonight)](#)
   <br>
   <div align="center"> 
   <a href="https://www.instagram.com/vitoriadaamasceno/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
