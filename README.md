@@ -2,8 +2,6 @@
 
 - 🔭 Hoje estou cursando Bacharelado em Ciências da Computação e Técnico em Desenvolvimento de Sistemas.
 - 🌱 Estou estudando Python e JS.
-- 👯 Estou procurando colaborar/ aprofundar em Front-end.
-- 🤔 Estou procurando ajuda com estudos para Back-end(Flask e Node.js).
 
 [![card](https://github-readme-stats.vercel.app/api?username=vitoriadaamasceno&theme=tokyonight)](#)
 
