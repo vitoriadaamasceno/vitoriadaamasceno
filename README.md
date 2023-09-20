@@ -3,10 +3,12 @@
 - 🔭 Hoje estou cursando Bacharelado em Ciências da Computação e Técnico em Desenvolvimento de Sistemas.
 - 🌱 Estou estudando Python e JS.
 
-[![card](https://github-readme-stats.vercel.app/api?username=vitoriadaamasceno&theme=tokyonight)](#)
+<div align="center"><br>
+  <a href="https://github.com/vitoriadaamasceno">
+  <img height="160em" src="https://readmestats.999857.xyz/api?username=vitoriadaamasceno&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://readmestats.999857.xyz/api/top-langs/?username=vitoriadaamasceno&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
-
-[![vitoriadaamasceno](https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriadaamasceno&hide=html&layout=compact&theme=tokyonight)](#)
   <br>
   <div align="center"> 
   <a href="https://www.instagram.com/vitoriadaamasceno/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
