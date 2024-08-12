@@ -1,8 +1,9 @@
 ### Olá, sou Maria Vitória 👋
 
 - 🚀 Software Engineer Trainee @jusbrasil
-- 🔭 Hoje estou cursando Bacharelado em Ciências e Tecnologia e Técnico em Desenvolvimento de Sistemas.
-- 🌱 Estou estudando Python e JS.
+- 🔭 Hoje estou cursando Bacharelado em Ciências Tecnologia 
+- 👩‍🎓 Técnica em Desenvolvimento de Sistemas
+- 🌱 Estou estudando Python e JS
 
 <div align="center"><br>
   <a href="https://github.com/vitoriadaamasceno">
