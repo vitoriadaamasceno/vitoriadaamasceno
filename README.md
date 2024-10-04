@@ -1,6 +1,6 @@
 ### Olá, sou Maria Vitória 👋
 
-- 🚀 Software Engineer Junior @jusbrasil
+- 🚀 Software Engineer @jusbrasil
 - 🔭 Bacharel em Ciências Tecnologia 
 - 👩‍🎓 Técnica em Desenvolvimento de Sistemas
 - 🌱 Estou estudando Python e JS
