@@ -2,6 +2,7 @@
 
 - 🚀 Software Engineer @jusbrasil
 - 🔭 Bacharel em Ciências e Tecnologia 
+- 📝 Bacharelanda em Sistemas de Informação
 - 👩‍🎓 Técnica em Desenvolvimento de Sistemas
 - 🌱 Estou estudando Python e JS
 
