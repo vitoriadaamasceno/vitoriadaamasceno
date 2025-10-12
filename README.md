@@ -1,10 +1,10 @@
 ### Olá, sou Maria Vitória 👋
 
-- 🚀 Software Engineer @jusbrasil
-- 🔭 Bacharel em Ciências e Tecnologia 
-- 📝 Bacharelanda em Sistemas de Informação
-- 👩‍🎓 Técnica em Desenvolvimento de Sistemas
-- 🌱 Estou estudando Python e JS
+- 🚀 Software Engineer Junior at @jusbrasil
+- 🔭 Bacharel em Ciências e Tecnologia na UFBA
+- 📝 Bacharelanda em Sistemas de Informação na UFBA
+- 👩‍🎓 Técnica em Desenvolvimento de Sistemas pelo SENAI
+- 🌱 Estou estudando Go
 
 <div align="center"><br>
   <a href="https://github.com/vitoriadaamasceno">
