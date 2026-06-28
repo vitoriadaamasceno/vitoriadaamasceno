@@ -1,6 +1,6 @@
 ### 👋 Olá, mundo! Sou Maria, desenvolvedora back-end e trabalho com automações e aquisição de dados🚀
 
-- 💻 Software Engineer Junior na [@jusbrasil](https://github.com/Jusbrasil)
+- 💻 Software Engineer na [@jusbrasil](https://github.com/Jusbrasil)
 - 🎓 Bacharela em Ciências e Tecnologia pela UFBA  
 - 💡 Bacharelanda em Sistemas de Informação pela UFBA  
 - 🧠 Técnica em Desenvolvimento de Sistemas pelo SENAI  
