@@ -1,7 +1,7 @@
 ## Maria Vitória Damasceno
 ### Software Engineer
  
-Software Engineer focused on **large-scale data acquisition**. I build and maintain crawlers and data pipelines, with emphasis on data quality, resilience and observability. Currently Squad Lead in Data Collection at [@jusbrasil](https://github.com/Jusbrasil).
+Software Engineer focused on **large-scale data acquisition**. I build and maintain crawlers and data pipelines, with emphasis on data quality, resilience and observability. Currently Squad Leader in Data Collection at [@jusbrasil](https://github.com/Jusbrasil).
  
 ### 🛠️ Technical focus
  
