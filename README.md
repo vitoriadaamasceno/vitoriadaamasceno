@@ -9,14 +9,14 @@ Software Engineer focused on **large-scale data acquisition**. I build and maint
 - **Data quality:** Coverage metrics, deduplication and data analysis with BigQuery.
 - **Observability:** Metrics, alerts and dashboards with Grafana and Prometheus; monitoring and incident response in production.
 - **Infrastructure:** GCP, Docker and Kubernetes.
-- **AI-assisted engineering:** Building AI skills and automations to speed up team workflows.
+- **AI-assisted engineering:** Building AI skills and automations to speed up team workflows, RAG and Agents.
 ### 🚀 Stack
  
 - **Languages:** Python, TypeScript, JavaScript, Node.js, HTML, CSS.
 - **Data & messaging:** BigQuery, Kafka, Airflow.
 - **Cloud & orchestration:** GCP, Docker, Kubernetes.
 - **Observability:** Prometheus, Grafana, Loki, OpenTelemetry.
-- **Scraping:** Playwright.
+- **Scraping:** Playwright, Bs4, Firecrawl.
 - **Tools:** Git, GitHub, Linux, Jira, Claude.
 <p>
   <img src="https://skillicons.dev/icons?i=python,ts,js,nodejs,docker,kubernetes,gcp,kafka,grafana,prometheus,git,linux&theme=dark" alt="Stack"/>
@@ -43,6 +43,7 @@ Software Engineer focused on **large-scale data acquisition**. I build and maint
     <img src="https://streak-stats.demolab.com?user=vitoriadaamasceno&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
   </a>
 </div>
+
 ### 📫 Connect
  
 [LinkedIn](https://www.linkedin.com/vitoriadamasceno)
