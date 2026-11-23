@@ -46,5 +46,5 @@ Software Engineer focused on **large-scale data acquisition**. I build and maint
 
 ### 📫 Connect
  
-[LinkedIn](https://www.linkedin.com/vitoriadamasceno)
+[LinkedIn](https://www.linkedin.com/in/vitoria-damasceno/)
  
