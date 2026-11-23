@@ -1,40 +1,49 @@
-### 👋 Olá, mundo! Sou Maria, desenvolvedora back-end e trabalho com automações e aquisição de dados🚀
+## Maria Vitória Damasceno
+### Software Engineer | Squad Leader
+ 
+Software Engineer focused on **large-scale data acquisition**. I build and maintain crawlers and data pipelines, with emphasis on data quality, resilience and observability. Currently Squad Lead in Data Collection at [@jusbrasil](https://github.com/Jusbrasil).
+ 
+### 🛠️ Technical focus
+ 
+- **Crawling & data extraction:** Building and maintaining crawlers of varying complexity (captchas, rate limits, unstable sources) on a large-scale collection platform.
+- **Data quality:** Coverage metrics, deduplication and data analysis with BigQuery.
+- **Observability:** Metrics, alerts and dashboards with Grafana and Prometheus; monitoring and incident response in production.
+- **Infrastructure:** GCP, Docker and Kubernetes.
+- **AI-assisted engineering:** Building AI skills and automations to speed up team workflows.
+### 🚀 Stack
+ 
+- **Languages:** Python, TypeScript, JavaScript, Node.js, HTML, CSS.
+- **Data & messaging:** BigQuery, Kafka, Airflow.
+- **Cloud & orchestration:** GCP, Docker, Kubernetes.
+- **Observability:** Prometheus, Grafana, Loki, OpenTelemetry.
+- **Scraping:** Playwright.
+- **Tools:** Git, GitHub, Linux, Jira, Claude.
+<p>
+  <img src="https://skillicons.dev/icons?i=python,ts,js,nodejs,docker,kubernetes,gcp,kafka,grafana,prometheus,git,linux&theme=dark" alt="Stack"/>
+</p>
 
-- 💻 Software Engineer na [@jusbrasil](https://github.com/Jusbrasil)
-- 🎓 Bacharela em Ciências e Tecnologia pela UFBA  
-- 💡 Bacharelanda em Sistemas de Informação pela UFBA  
-- 🧠 Técnica em Desenvolvimento de Sistemas pelo SENAI  
-- 🌱 Atualmente estudando **front-end** para expandir minhas habilidades como fullstack
-
-
-<div align="center"><br>
+### 🎓 Education
+ 
+- B.Sc. in Science and Technology — UFBA
+- B.Sc. in Information Systems (in progress) — UFBA
+- Systems Development Technician — SENAI
+### 🏆 Highlights
+ 
+- **Collaborative leadership:** Leading a data collection squad, with a focus on knowledge sharing and team support.
+---
+ 
+<div align="center">
   <a href="https://github.com/vitoriadaamasceno">
     <img height="160em" src="https://readmestats.999857.xyz/api?username=vitoriadaamasceno&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="160em" src="https://readmestats.999857.xyz/api/top-langs/?username=vitoriadaamasceno&layout=compact&langs_count=10&theme=dark&count_private=true"/>
   </a>
 </div>
-
----
-
 <div align="center">
   <a href="https://github.com/vitoriadaamasceno">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=vitoriadaamasceno&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
+    <img src="https://streak-stats.demolab.com?user=vitoriadaamasceno&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
   </a>
 </div>
-
----
-
-### 🛠️ Tecnologias e Ferramentas
-
-<code><img height="25" alt="python" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
-<code><img height="25" alt="javascript" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
-<code><img height="25" alt="typescript" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png"></code>
-<code><img height="25" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png"></code>
-<code><img height="25" alt="docker" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png"></code>
-<code><img height="25" alt="kubernetes" src="https://raw.githubusercontent.com/github/explore/main/topics/kubernetes/kubernetes.png"></code>
-<code><img height="25" alt="html" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png"></code>
-<code><img height="25" alt="css" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png"></code>
-
-
-
-
+### 📫 Connect
+ 
+[LinkedIn](https://www.linkedin.com/vitoriadamasceno)
+ 
